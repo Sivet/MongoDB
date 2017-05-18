@@ -62,5 +62,18 @@ namespace Jordbrugsteknologi
             }
             return Result;
         }
+        public List<string> GetAllFieldNames()
+        {
+            List<string> names = new List<string>();
+            var filt = Builders<Field>.Filter.Where(m => m.Name != null);
+            List<Field> fields = collection.Find(filt).ToList();
+
+            foreach (var item in fields)
+            {
+                names.Add(item.Name);
+            }
+
+            return names;
+        }
     }
 }

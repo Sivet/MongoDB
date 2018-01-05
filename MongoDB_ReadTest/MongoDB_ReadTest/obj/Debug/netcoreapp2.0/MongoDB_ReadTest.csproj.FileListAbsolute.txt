@@ -1,0 +1,11 @@
+c:\users\simgl\Source\Repos\MongoDB_ReadTest\MongoDB_ReadTest\bin\Debug\netcoreapp2.0\MongoDB_ReadTest.deps.json
+c:\users\simgl\Source\Repos\MongoDB_ReadTest\MongoDB_ReadTest\bin\Debug\netcoreapp2.0\MongoDB_ReadTest.runtimeconfig.json
+c:\users\simgl\Source\Repos\MongoDB_ReadTest\MongoDB_ReadTest\bin\Debug\netcoreapp2.0\MongoDB_ReadTest.runtimeconfig.dev.json
+c:\users\simgl\Source\Repos\MongoDB_ReadTest\MongoDB_ReadTest\bin\Debug\netcoreapp2.0\MongoDB_ReadTest.dll
+c:\users\simgl\Source\Repos\MongoDB_ReadTest\MongoDB_ReadTest\obj\Debug\netcoreapp2.0\MongoDB_ReadTest.csprojResolveAssemblyReference.cache
+c:\users\simgl\Source\Repos\MongoDB_ReadTest\MongoDB_ReadTest\obj\Debug\netcoreapp2.0\MongoDB_ReadTest.csproj.CoreCompileInputs.cache
+c:\users\simgl\Source\Repos\MongoDB_ReadTest\MongoDB_ReadTest\obj\Debug\netcoreapp2.0\MongoDB_ReadTest.AssemblyInfoInputs.cache
+c:\users\simgl\Source\Repos\MongoDB_ReadTest\MongoDB_ReadTest\obj\Debug\netcoreapp2.0\MongoDB_ReadTest.AssemblyInfo.cs
+C:\Users\simgl\Source\Repos\MongoDB_ReadTest\MongoDB_ReadTest\bin\Debug\netcoreapp2.0\MongoDB_ReadTest.pdb
+C:\Users\simgl\Source\Repos\MongoDB_ReadTest\MongoDB_ReadTest\obj\Debug\netcoreapp2.0\MongoDB_ReadTest.dll
+C:\Users\simgl\Source\Repos\MongoDB_ReadTest\MongoDB_ReadTest\obj\Debug\netcoreapp2.0\MongoDB_ReadTest.pdb
